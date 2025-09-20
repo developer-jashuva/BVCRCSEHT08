@@ -7,8 +7,9 @@ You can copy-paste this into your repository and tweak details like URLs or team
 
 *An AI-powered personalized learning platform built in a 6-hour hackathon.*
 
-![Landing Page](https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/landingPage2.jpg) <!-- replace with actual screenshot path -->
-  <img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/landingPage1.jpg" alt="Alt text for the image" width="400">
+<img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/landingPage1.jpg" alt="Alt text for the image" width="400">
+
+  <img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/landingPage2.jpg" alt="Alt text for the image" width="400">
 
 ---
 
