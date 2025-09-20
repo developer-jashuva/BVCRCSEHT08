@@ -2,6 +2,9 @@ import React from "react";
 import Login from "./Login";
 
 const LandingPage = ({ onGetStarted }) => {
+
+
+  
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Navbar */}

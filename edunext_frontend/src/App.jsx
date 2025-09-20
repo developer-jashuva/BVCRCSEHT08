@@ -9,7 +9,7 @@ const [showLogin, setShowLogin] = useState(false);
 
   return (
     <>
-       <LandingPage onGetStarted={() => setShowLogin(true)} />
+      <LandingPage onGetStarted={() => setShowLogin(true)} />
       <Login isOpen={showLogin} onClose={() => setShowLogin(false)} />
       
     </>
