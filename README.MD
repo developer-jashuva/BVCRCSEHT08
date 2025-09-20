@@ -47,11 +47,10 @@ Our goal was to create an **intelligent learning platform** that adapts to each 
 
 ## 🖼️ Screenshots
 
-| Landing Page                       | Student Dashboard                      | Chatbot                            |
+| Instructor Dashboard                       | Student Dashboard                      | Chatbot                            |
 | ---------------------------------- | -------------------------------------- | ---------------------------------- |
-| ![Landing](screenshot-landing.png) | ![Dashboard](screenshot-dashboard.png) | ![Chatbot](screenshot-chatbot.png) |
+|<img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/teacherDashboard.jpg" alt="image" width="200"> |<img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/studentDashboard.jpg" alt="image" width="200"> | <img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/chatBot.jpg" alt="image" width="200"> |
 
-*(Replace screenshots with actual images from your project)*
 
 ---
 
