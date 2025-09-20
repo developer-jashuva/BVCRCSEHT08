@@ -18,7 +18,7 @@ const Chatbot = () => {
 
     try {
       
-      const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${"AIzaSyBbnbftCOsIlht8t1bO383-r_7JOm-ub4w"}`;
+      const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${"your api key"}`;
 
       const payload = {
         contents: updatedHistory.map(msg => ({
