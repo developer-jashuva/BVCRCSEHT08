@@ -1,16 +1,17 @@
 import { useState } from 'react'
 
 import './App.css'
-
+import LandingPage from './pages/LandingPage'
+import Login from './pages/Login'
 function App() {
-  const [count, setCount] = useState(0)
+ 
+const [showLogin, setShowLogin] = useState(false);
 
   return (
     <>
+       <LandingPage onGetStarted={() => setShowLogin(true)} />
+      <Login isOpen={showLogin} onClose={() => setShowLogin(false)} />
       
-      <p className='text-3xl font-bold underline' >
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
 }
