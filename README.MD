@@ -49,7 +49,7 @@ Our goal was to create an **intelligent learning platform** that adapts to each 
 
 | Instructor Dashboard                       | Student Dashboard                      | Chatbot                            |
 | ---------------------------------- | -------------------------------------- | ---------------------------------- |
-|<img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/teacherDashboard.jpg" alt="image" width="200"> |<img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/studentDashboard.jpg" alt="image" width="200"> | <img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/chatBot.jpg" alt="image" width="200"> |
+|<img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/teacherDashboard.jpg" alt="image" width="300"> |<img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/studentDashboard.jpg" alt="image" width="300"> | <img src="https://github.com/developer-jashuva/BVCRCSEHT08/blob/main/chatBot.jpg" alt="image" width="300"> |
 
 
 ---
