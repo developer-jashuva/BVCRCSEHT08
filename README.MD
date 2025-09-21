@@ -1,9 +1,5 @@
-Here’s a **polished GitHub README.md** template for your hackathon project.
-You can copy-paste this into your repository and tweak details like URLs or team credits.
 
----
-
-# 🚀 EduNext AI
+# 🚀 EduNext AI     https://edunext-ai-xaw1.vercel.app/
 
 *An AI-powered personalized learning platform built in a 6-hour hackathon.*
 <p>
